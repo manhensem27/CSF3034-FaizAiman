@@ -11,5 +11,7 @@ public class StudentProfile {
         System.out.println("Name: Muhammad Faiz Aiman Bin Muhamad");
         System.out.println("Student ID: S85574");
         System.out.println("Programme: Bachelor Of Software Engineering");
+        System.out.println("Semester: Semester 1");
+        System.out.println("Favourite Language: Java");
     }
 }
